@@ -60,13 +60,14 @@ VALUES
 ```
 
 Step-2: Installing Dependencies
-    pip install -r requirements.txt
+    ```pip install -r requirements.txt```
 
 Step-3: Running application
 Powershell
+```
   > $env:FLASK_ENV = "development"
   > flask run
-
+```
 step-4: using the api
 visit localhost:5000 on your browser
 with http://127.0.0.1:5000//student/page/<pno>/limit/<limit>
