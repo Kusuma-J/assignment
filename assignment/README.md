@@ -72,5 +72,4 @@ step-4: using the api
 visit localhost:5000 on your browser
 with 
 ```http://127.0.0.1:5000//student/page/<pno>/limit/<limit>```
-```
-example: http://127.0.0.1:5000//student/page/3/limit/5```
+```example: http://127.0.0.1:5000//student/page/3/limit/5```
