@@ -4,7 +4,7 @@ Step-1: Creating a db in mysql
 create a table named students(with columns firstname, lastname, age, grade) in your schema
 and run the following query to insert data
 ``` 
-INSERT INTO students (first_name, last_name, age, grade)
+INSERT INTO students (firstname, lastname, age, grade)
 VALUES
     ('John', 'Doe', 18, 'A'),
     ('Jane', 'Smith', 17, 'B'),
